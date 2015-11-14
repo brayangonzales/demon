@@ -1,0 +1,3 @@
+/home/brayan/laravel/demon/Main.cpp:1:6: error: expected constructor, destructor, or type conversion at end of input
+ (null)
+      ^
